@@ -79,13 +79,6 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch376%29/index
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkRzMDesNHQet8NAA_509dT1ZIncmrUTkicwEi19d2peVyCpn41U_ftluvv4zMJhksnzU&usqp=CAU" group-title="KHUSUS PELANGGAN PATUMBAK NO SELL", CITRA DRAMA
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch378%29/index.m3u8
 
-#EXTINF:-1 group-title="KHUSUS PELANGGAN PATUMBAK NO SELL" tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a7/Bioskop_Indonesia_TV.png", Bioskop Indonesia
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia/manifest.mpd
-
 #EXTINF:-1 group-title="KHUSUS PELANGGAN PATUMBAK NO SELL" tvg-logo="https://images.indihometv.com/tvposter/flik.png", Flik
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
