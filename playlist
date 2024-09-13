@@ -2300,6 +2300,119 @@ https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227529/32
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=05dc82fd4032765d90e57e7eeaac301e:4fdc9571ab25456371ba2a57135880e1
 https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227948/3221227948.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=nR3IWnuvgquP%2F8My8iyxx%2BoxnuQhQQA9yraVG9ZBgJG7lGYp3EaTqDAXfA4S%2BPVgQpTIHrOhXCgOoaP1Jv59qvHl2ogHz3eAyG2k7xToFQmJBU24%2BKwsNeA0VE3pRwoj%3A20221124221801%3AUTC%2C1001767138%2C27.125.242.143%2C20221124221801%2Curn:Huawei:liveTV:XTV56919296%2C1001767138%2C-1%2C0%2C1%2C%2C%2C2%2C595%2C%2C%2C2%2C1612403%2C0%2C517698%2C3073678270%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOywrCMBRE_ybLkEfjY5GVIghSBatbuUluY2naaFIF_16rdTszZzhDAovbtXa1xDmzxihbFMViaRTjzjFVc4NWMiAZ72XUglgIoel9Gd2InY-rC2eUUSE45YJU490mgJ-W5aMzmLT8Y0dMz8aidrmmT8gUvE_oYWhiTw8BXqcUpgnBalLjs9lSSrVQc6kEGca0gtx-GnKFvIrdDRK6XfRfQNcQMpIb2BY8ltCh7h8h_Lh9ch-bN5RyWgv0AAAA&tenantId=6001
+//========================================================================
+//Collected by @mimipipi22 menampilkan playlist >>> SUPERSPORT
+//========================================================================
+
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/b113905d39622090910a766c75af759d.png" group-title="Supersport",SS PSL
+https://webhdrunns.mizhls.ru/lb/premium413/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/c01edd9028bd637cc5bdc8527acc3353.png" group-title="Supersport",SS ACTION
+https://webhdrunns.mizhls.ru/lb/premium420/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/b51cde8be3defead0ca307c5be0c9453.png" group-title="Supersport",SS TENNIS
+https://webhdrunns.mizhls.ru/lb/premium423/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/5b9d9ddbf95526d59c2fdd6725253646.png" group-title="Supersport",SS CRICKET
+https://webhdrunns.mizhls.ru/lb/premium368/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/a8f0bee8d482364f261394bf7678fa0e.png" group-title="Supersport",SS GRANDSTAND
+https://webhdrunns.mizhls.ru/lb/premium412/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/a20c92d13ce602ec324ff03b209ed0c2.png" group-title="Supersport",SS GOLF
+https://webhdrunns.mizhls.ru/lb/premium422/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/55a7ac3c8cdd7718d94d29b8ebc99f2e.png" group-title="Supersport",SS RUGBY
+https://webhdrunns.mizhls.ru/lb/premium421/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/5440da812326351c34541cb82f6aac9e.png" group-title="Supersport",SS Football
+https://webhdrunns.mizhls.ru/lb/premium56/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/65bb8b6586b7fa25553a450811acce40.png" group-title="Supersport",SS Variety 1
+https://webhdrunns.mizhls.ru/lb/premium416/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/65bb8b6586b7fa25553a450811acce40.png" group-title="Supersport",SS Variety 2
+https://webhdrunns.mizhls.ru/lb/premium417/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/712a4054a884ffbeb3cac1bd3d4700da.png" group-title="Supersport",SS Variety 3
+https://webhdrunns.mizhls.ru/lb/premium418/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/7816729fca81dcee05b869f633b8a84d.png" group-title="Supersport",SS Variety 4
+https://webhdrunns.mizhls.ru/lb/premium419/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-name="SuperSport LaLiga" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/dd29bde85c09ac2e0c1c250edb6bcf23.png" group-title="Supersport",SS LaLiga
+https://webhdrus.onlinehdhls.ru/lb/premium415/index.m3u8|referer=https://weblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-name="SuperSport Premier league" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/2f8f23e2a35d5a4e9ea336d7b51fd98f.png" group-title="Supersport",SS Premier league
+https://webhdrus.onlinehdhls.ru/lb/premium414/index.m3u8|referer=https://weblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-name="SuperSport MaXimo 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/488fd8d34ea146bfaf82c12331f4223e.png" group-title="Supersport",SS MaXimo 1
+https://webhdrus.onlinehdhls.ru/lb/premium572/index.m3u8|referer=https://weblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-name="SuperSport Motorsport" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/cbc8390b70fc0ce16a159f392002fec4.png" group-title="Supersport",SS Motorsport
+https://webhdrus.onlinehdhls.ru/lb/premium424/index.m3u8|referer=https://weblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+//========================================================================
+//Collected by @mimipipi22 menampilkan playlist >>> SKY CINEMA
+//========================================================================
+
+#EXTINF:-1 tvg-name="Sky Cinema Premiere UK" tvg-logo="https://dl.dropbox.com/scl/fi/s9bhqat2nf8iwxrxg9sqh/20240328_162122.png?rlkey=2mtykzok5wq8aj6538oazwlsc&dl=0" group-title="Sky Cinema",Sky Cinema Premiere UK
+https://webhdrus.onlinehdhls.ru/lb/premium671/index.m3u8|referer=https://weblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-name="Sky Cinema Select UK" tvg-logo="https://dl.dropbox.com/scl/fi/s9bhqat2nf8iwxrxg9sqh/20240328_162122.png?rlkey=2mtykzok5wq8aj6538oazwlsc&dl=0" group-title="Sky Cinema",Sky Cinema Select UK
+https://webhdrus.onlinehdhls.ru/lb/premium672/index.m3u8|referer=https://weblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-name="Sky Cinema Hits UK" tvg-logo="https://dl.dropbox.com/scl/fi/s9bhqat2nf8iwxrxg9sqh/20240328_162122.png?rlkey=2mtykzok5wq8aj6538oazwlsc&dl=0" group-title="Sky Cinema",Sky Cinema Hits UK
+https://webhdrus.onlinehdhls.ru/lb/premium673/index.m3u8|referer=https://weblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-name="Sky Cinema Greats UK" tvg-logo="https://dl.dropbox.com/scl/fi/s9bhqat2nf8iwxrxg9sqh/20240328_162122.png?rlkey=2mtykzok5wq8aj6538oazwlsc&dl=0" group-title="Sky Cinema",Sky Cinema Greats UK
+https://webhdrus.onlinehdhls.ru/lb/premium674/index.m3u8|referer=https://weblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-name="Sky Cinema Animation UK" tvg-logo="https://dl.dropbox.com/scl/fi/s9bhqat2nf8iwxrxg9sqh/20240328_162122.png?rlkey=2mtykzok5wq8aj6538oazwlsc&dl=0" group-title="Sky Cinema",Sky Cinema Animation UK
+https://webhdrus.onlinehdhls.ru/lb/premium675/index.m3u8|referer=https://weblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-name="Sky Cinema Family UK" tvg-logo="https://dl.dropbox.com/scl/fi/s9bhqat2nf8iwxrxg9sqh/20240328_162122.png?rlkey=2mtykzok5wq8aj6538oazwlsc&dl=0" group-title="Sky Cinema",Sky Cinema Family UK
+https://webhdrus.onlinehdhls.ru/lb/premium676/index.m3u8|referer=https://weblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-name="Sky Cinema Action UK" tvg-logo="https://dl.dropbox.com/scl/fi/s9bhqat2nf8iwxrxg9sqh/20240328_162122.png?rlkey=2mtykzok5wq8aj6538oazwlsc&dl=0" group-title="Sky Cinema",Sky Cinema Action UK
+https://webhdrus.onlinehdhls.ru/lb/premium677/index.m3u8|referer=https://weblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-name="Sky Cinema Thriller UK" tvg-logo="https://dl.dropbox.com/scl/fi/s9bhqat2nf8iwxrxg9sqh/20240328_162122.png?rlkey=2mtykzok5wq8aj6538oazwlsc&dl=0" group-title="Sky Cinema",Sky Cinema Thriller UK
+https://webhdrus.onlinehdhls.ru/lb/premium679/index.m3u8|referer=https://weblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-name="Sky Cinema Sci-Fi Horror UK" tvg-logo="https://dl.dropbox.com/scl/fi/s9bhqat2nf8iwxrxg9sqh/20240328_162122.png?rlkey=2mtykzok5wq8aj6538oazwlsc&dl=0" group-title="Sky Cinema",Sky Cinema Sci-Fi Horror UK
+https://webhdrunns.mizhls.ru/lb/premium681/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-name="Sky Cinema Collection Italy" tvg-logo="https://dl.dropbox.com/scl/fi/s9bhqat2nf8iwxrxg9sqh/20240328_162122.png?rlkey=2mtykzok5wq8aj6538oazwlsc&dl=0" group-title="Sky Cinema",Sky Cinema Collection Italy
+https://webhdrunns.mizhls.ru/lb/premium859/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-name="Sky Cinema Uno Italy" tvg-logo="https://dl.dropbox.com/scl/fi/s9bhqat2nf8iwxrxg9sqh/20240328_162122.png?rlkey=2mtykzok5wq8aj6538oazwlsc&dl=0" group-title="Sky Cinema",Sky Cinema Uno Italy
+https://webhdrunns.mizhls.ru/lb/premium860/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-name="Sky Cinema Action Italy" tvg-logo="https://dl.dropbox.com/scl/fi/s9bhqat2nf8iwxrxg9sqh/20240328_162122.png?rlkey=2mtykzok5wq8aj6538oazwlsc&dl=0" group-title="Sky Cinema",Sky Cinema Action Italy
+https://webhdrunns.mizhls.ru/lb/premium861/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-name="8Sky Cinema Comedy Italy" tvg-logo="https://dl.dropbox.com/scl/fi/s9bhqat2nf8iwxrxg9sqh/20240328_162122.png?rlkey=2mtykzok5wq8aj6538oazwlsc&dl=0" group-title="Sky Cinema",8Sky Cinema Comedy Italy
+https://webhdrunns.mizhls.ru/lb/premium862/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-name="Sky Cinema Uno +24 Italy" tvg-logo="https://dl.dropbox.com/scl/fi/s9bhqat2nf8iwxrxg9sqh/20240328_162122.png?rlkey=2mtykzok5wq8aj6538oazwlsc&dl=0" group-title="Sky Cinema",Sky Cinema Uno +24 Italy
+https://webhdrunns.mizhls.ru/lb/premium863/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-name="Sky Cinema Romance Italy" tvg-logo="https://dl.dropbox.com/scl/fi/s9bhqat2nf8iwxrxg9sqh/20240328_162122.png?rlkey=2mtykzok5wq8aj6538oazwlsc&dl=0" group-title="Sky Cinema",Sky Cinema Romance Italy
+https://webhdrunns.mizhls.ru/lb/premium864/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-name="Sky Cinema Family Italy" tvg-logo="https://dl.dropbox.com/scl/fi/s9bhqat2nf8iwxrxg9sqh/20240328_162122.png?rlkey=2mtykzok5wq8aj6538oazwlsc&dl=0" group-title="Sky Cinema",Sky Cinema Family Italy
+https://webhdrunns.mizhls.ru/lb/premium865/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-name="Sky Cinema Due +24 Italy" tvg-logo="https://dl.dropbox.com/scl/fi/s9bhqat2nf8iwxrxg9sqh/20240328_162122.png?rlkey=2mtykzok5wq8aj6538oazwlsc&dl=0" group-title="Sky Cinema",Sky Cinema Due +24 Italy
+https://webhdrunns.mizhls.ru/lb/premium866/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-name="Sky Cinema Drama Italy" tvg-logo="https://dl.dropbox.com/scl/fi/s9bhqat2nf8iwxrxg9sqh/20240328_162122.png?rlkey=2mtykzok5wq8aj6538oazwlsc&dl=0" group-title="Sky Cinema",Sky Cinema Drama Italy
+https://webhdrunns.mizhls.ru/lb/premium867/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-name="8Sky Cinema Suspense Italy" tvg-logo="https://dl.dropbox.com/scl/fi/s9bhqat2nf8iwxrxg9sqh/20240328_162122.png?rlkey=2mtykzok5wq8aj6538oazwlsc&dl=0" group-title="Sky Cinema",8Sky Cinema Suspense Italy
+https://webhdrunns.mizhls.ru/lb/premium868/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+
+//========================================================================
+//Collected by @mimipipi22 menampilkan playlist >>> BEIN MOVIE
+//========================================================================
+
+#EXTINF:-1 tvg-id="" tvg-name="QA: beIN Box Office 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/a1785416ae7e6dbb932232bb1ad4e6cd.jpg" group-title="beIN Movie",QA: beIN Box Office 1
+http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/225322.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="QA: beIN Box Office 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/426ffd6c8884d86ebf2eab9424aec0c8.png" group-title="beIN Movie",QA: beIN Box Office 2
+http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/225321.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR027:BEIN BOX OFFICE 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR027NUMBER1HD.png" group-title="beIN Movie",QA: beIN Box Office 3
+http://vo01.mohdtv.com:8880/live/ALLChannels681def1ca5ec/20314810/33042.ts
+#EXTINF:-1 tvg-id="" tvg-name="QA: beIN Movies Drama 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/14fdcdb04d6dedc02d4c5da6b8799ac9.png" group-title="beIN Movie",QA: beIN Movies Drama 3
+http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/3735.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="QA: beIN Movies Family 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/3ea0e8888e4246635f275548efadf3fa.png" group-title="beIN Movie",QA: beIN Movies Family 4
+http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/1268.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="QA: beIN Drama 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/752642b37938786f6aa7c4a541a4d88a.jpg" group-title="beIN Movie",QA: beIN Drama
+http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/2835.m3u8
+#EXTINF:-1 tvg-id="21.junior.al" tvg-name="TR038:BEIN SERIES DRAMA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR038MoviesmartGold.png" group-title="beIN Movie",QA: beIN Series Drama
+http://vo01.mohdtv.com:8880/live/ALLChannels681def1ca5ec/20314810/33031
+#EXTINF:-1 tvg-id="" tvg-name="QA: beIN Movies Action 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR028DMAX1080P.png" group-title="beIN Movie",beIN Box Office Turk
+http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/1270.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="QA: beIN Movies Premiere 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/5e38160e63541c3247432ad7cd12e674.jpg" group-title="beIN Movie",QA: beIN Movies Premiere 1
+http://vo01.mohdtv.com:8880/live/ALLChannels681def1ca5ec/20314810/33035.ts
+#EXTINF:-1 tvg-id="moviesmart.premium.tr" tvg-name="TR035:BEIN MOVIES PREMIERE 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR035MoviesmartPremium.png" group-title="beIN Movie",QA: beIN Movies Premiere 2
+http://vo01.mohdtv.com:8880/live/ALLChannels681def1ca5ec/20314810/33034.ts
+#EXTINF:-1 tvg-id="national.geographic.tr" tvg-name="TR031:BEIN MOVIES ACTION" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR031NATIONALGEOGRAPHICHD.png" group-title="beIN Movie",QA: beIN Movies Action
+http://vo01.mohdtv.com:8880/live/ALLChannels681def1ca5ec/20314810/33038.ts
+#EXTINF:-1 tvg-id="national.geographic.wild.tr" tvg-name="TR032:BEIN MOVIES ACTION 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR032NATINOALGEOWILD.png" group-title="beIN Movie",QA: beIN Movies Action 2
+http://vo01.mohdtv.com:8880/live/ALLChannels681def1ca5ec/20314810/33037.ts
+#EXTINF:-1 tvg-id="21.junior.al" tvg-name="TR036:BEIN MOVIES STARS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR036MoviesmartPlatin2.png" group-title="beIN Movie",QA: beIN Movies Stars
+http://vo01.mohdtv.com:8880/live/ALLChannels681def1ca5ec/20314810/33033.ts
+#EXTINF:-1 tvg-id="21.junior.al" tvg-name="TR037:BEIN SERIES COMEDY" tvg-logo="http://www.tvboxgroup.com/iptv/logo/TR/TR037MoviesmartPlatin.png" group-title="beIN Movie",QA: beIN Movies Comedy
+http://vo01.mohdtv.com:8880/live/ALLChannels681def1ca5ec/20314810/33032.ts
 
 
 #EXTM3U billed-msg="?? SIARAN TV Khusus Kecamatan PATUMBAK by(AMMAR.net) ??"
