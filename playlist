@@ -1954,34 +1954,6 @@ http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298528
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="BIOSKOP TV PATUMBAK",ETV BIOSKOP 4
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298529
 
-########tv club#######
-
-#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/madrid-BoUfG0rt.png?download=true" group-title="CLUB BOLA TV" , REAL MADRID HD
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-realmadrid-cineverse/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/club-tv-x9L3soK9.png?download=true" group-title="CLUB BOLA TV"  , INTER MILAN
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-033/stream.mpd
-
-#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/milan-tv-Pl6gvcNW.png?download=true" group-title="CLUB BOLA TV"  , AC MILAN
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-025/stream.mpd
-
-#EXTINF:-1 tvg-logo="http://origintvsolutions.co.uk/Logos/Logos/mutvhd.png" group-title="CLUB BOLA TV", MU TV
-https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
-
-#EXTINF:-1 group-title="CLUB BOLA TV" tvg-id="barcatv.es" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCjTD_k9n0Wd5T4ogFLeqH9pwP8edfnWL6hqnvlSxL0A&s", Betis TV
-https://streamer.zapitv.com/betis/index.mpd
-
-#EXTINF:-1 group-title="CLUB BOLA TV" tvg-id="barcatv.es" tvg-logo="https://i.imgur.com/7DnpNj.png",Sevilla FC Televisión
-#https://streamer.zapitv.com/sevillafc/index.mpd
-
-#EXTINF:-1 group-title="CLUB BOLA TV" tvg-id="galatasaraytv.tr" tvg-logo="https://logos-world.net/wp-content/uploads/2020/11/Galatasaray-Logo-2002-2018.png",Galatasaray TV
-https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist.m3u8
-
-
 =========================================== MOLA ==============================================================================
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3e17c3798a294c49b93c1b2ddbcd8f29:0917fa8c9cf68c206efc24946d0c22cc
@@ -2135,28 +2107,6 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856fd0d66d0170341bf10
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
 #https://play.gachor99.my.id:443/NcPfpppNKd/hmtv_lite/127
 
-========FILM======
-
-#EXTINF:-1 tvg-id="Cinemax HD" tvg-name="" tvg-logo="https://i.ibb.co.com/qgYQyVV/cinemax.png" group-title="Film", CINEMAX (SG)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=32bc2ee6869144b88bee3babf202f88e:50d3b9ec49e1570621d45822923607f7
-https://tglmp04.akamaized.net/out/v1/0f439c1d8a1a47fca9ae1fa92144306e/manifest.mpd
-
-#EXTINF:-1 tvg-id="HBO Hits HD" tvg-name="" tvg-logo="https://i.ibb.co.com/tMw7TZj/hbohits.png" group-title="Film", HBO HITS (SG)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=473fabdc05ac4d9b94fd34f33f73394f:1072b1e61206c3859607984f872e549c
-https://tglmp02.akamaized.net/out/v1/0fdcb3b643af40ceb3a5b7efa39f7b72/manifest.mpd
-
-#EXTINF:-1 tvg-id="HBO Signature HD" tvg-name="" tvg-logo="https://i.ibb.co.com/WBVQq4Y/hbosig.png" group-title="Film", HBO SIGNATURE (SG)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=90480f571f5d410891d7add7103c1e84:b64f887d2480bcaea992c2f0826449a9
-https://tglmp02.akamaized.net/out/v1/b37a81eb3585471cb9c639c78edcdefa/manifest.mpd
-
-#EXTINF:-1 tvg-id="IMC - [Channel 14].id" tvg-name="Galaxy Premium" tvg-logo="https://i.ibb.co.com/Ch4MgFd/imc.png" group-title="Film", IMC (vision)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://cempedak-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
 //========================================================================
 //Collected by @mimipipi22 menampilkan playlist >>> INDIHOME
 //========================================================================
