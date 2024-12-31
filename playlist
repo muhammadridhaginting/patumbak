@@ -2004,44 +2004,120 @@ https://webhdrunns.mizhls.ru/lb/premium867/index.m3u8|referer=https://lewblivehd
 https://webhdrunns.mizhls.ru/lb/premium868/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 <========================= HBO Group ===================================
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/ https://xyzdddd.mizhls.ru/lb/premium430/index.m3u8
-#EXTINF:-1 tvg-id="HBO HD.sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://play-gachor.my.id/logo/htv2/movie/hbo.png" group-title="HBO GROUP",HBO MAX 
-https://nonton.site:8443/XtreamFlixID/w9RLHbWJY4/210 
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 #EXTINF:-1 tvg-id="CINEMAX (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="HBO GROUP",Cinemax (TRANSCORP) https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd 
-#EXTINF:-1 tvg-id="HBO HD.sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://play-gachor.my.id/logo/htv2/movie/hbo.png" group-title="HBO GROUP",HBO MAX HD https://nonton.site:8443/XtreamFlixID/w9RLHbWJY4/210 
-#EXTINF:-1 tvg-id="HBO HD.sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://play-gachor.my.id/logo/htv2/movie/hbo.png" group-title="HBO GROUP",HBO MAX WAE https://nonton.site:8443/XtreamFlixID/w9RLHbWJY4/1496 
-#EXTINF:-1 tvg-id="CINEMAX (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://play-gachor.my.id/logo/htv2/movie/cinemax.png" group-title="HBO GROUP",Cinemax MAX WAE https://nonton.site:8443/XtreamFlixID/w9RLHbWJY4/30185
-#EXTINF:-1 tvg-id="CINEMAX (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://play-gachor.my.id/logo/htv2/movie/cinemax.png" group-title="HBO GROUP",Cinemax MAX https://nonton.site:8443/XtreamFlixID/w9RLHbWJY4/2156 
-#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://license.iptvsystem.my.id/?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcEFkZHJlc3MiOiIyMDAxOjQ0OGE6MjAwMzoyOGZlOjcwZWI6ZWE4ZTozMjgxOmM3ODYiLCJkZXZpY2VUeXBlIjoiV2luZG93cyIsImNoYW5uZWxJZCI6IkhCT1NpZ25hdHVyZUhEIiwic2lnbmF0dXJlS2V5IjoiOWRmOWI5MTFjNTQ2OTA1NTMwNGU5YTFhN2EwNTFiNjQiLCJwcm92aWRlciI6ImZtIiwidHlwZSI6ImRhc2giLCJleHAiOjE3MjI1ODQ1MDd9 
-#EXTINF:-1 tvg-id="HBO Signature (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="HBO GROUP",HBO Signature https://atemecdnbalancer-voe.sysln.id/live/eds/HBOSignatureHD/mpd/HBOSignatureHD.mpd #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://play-gachor.my.id/logo/htv2/movie/hbo_sign.png" group-title="HBO GROUP",HBO Signature http://zozotv.xyz:8080/live/mubaen/k895427/99.ts #EXTVLCOPT:http-referrer=https://www.cubmu.com/ #KODIPROP:inputstreamaddon=inputstream.adaptive #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="} #KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://drmid.layarkacatv.me/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 #EXTINF:-1 tvg-id="HBO HD.sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://seeklogo.com/images/H/hbo-logo-9BCB43E157-seeklogo.com.png" group-title="HBO GROUP",HBO https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856b6088c3016b87d64b970b53/manifest.mpd #EXTVLCOPT:http-referrer=https://www.cubmu.com/ #KODIPROP:inputstreamaddon=inputstream.adaptive #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="} #KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://drmid.layarkacatv.me/ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 #EXTINF:-1 tvg-id="HBO Hits (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="HBO GROUP",HBO Hits https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d054fbf67379f/manifest.mpd #EXTVLCOPT:http-referrer=https://www.cubmu.com/ #KODIPROP:inputstreamaddon=inputstream.adaptive 
-#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="} #KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://drmid.layarkacatv.me/ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 #EXTINF:-1 tvg-id="HBO Signature (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="HBO GROUP",HBO Signature https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd 
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#EXTINF:-1 tvg-id="HBO HD.sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://seeklogo.com/images/H/hbo-logo-9BCB43E157-seeklogo.com.png" group-title="HBO Group",HBO
+https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/refs/heads/main/HBO.m3u8
+
+#EXTINF:-1 tvg-id="CINEMAX (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="HBO GROUP",Cinemax NEW 
+https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/ #KODIPROP:inputstreamaddon=inputstream.adaptive 
-#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="} #KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://drmid.layarkacatv.me/ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-#EXTINF:-1 tvg-id="CINEMAX (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="HBO GROUP",Cinemax https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd 
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/ #KODIPROP:inputstreamaddon=inputstream.adaptive 
-#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="} #KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://drmid.layarkacatv.me/ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 #EXTINF:-1 tvg-id="HBO Family (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://www.liblogo.com/img-logo/hb7524h5d2-hbo-family-logo-hbo-family-logopedia-.png" group-title="HBO GROUP",HBO Family https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d055927fe37a4/manifest.mpd #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi #EXTVLCOPT:http-referrer=https://visionplus.id 
-#EXTINF:-1 group-title="HBO GROUP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/2560px-AXN_logo_%282015%29.svg.png",AXN HD https://cempedak-live-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd 
-#EXTINF:-1 group-title="HBO GROUP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/2560px-AXN_logo_%282015%29.svg.png",AXN HD #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=c5d5297a84f8b2de977f07286345c591:bdb773d6d25303b75a396b8040cfaf8c https://cempedak-live-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd 
-#EXTINF:-1 group-title="HBO GROUP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/2560px-AXN_logo_%282015%29.svg.png",AXN PH #KODIPROP:inputstreamaddon=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey #KODIPROP:inputstream.adaptive.license_key=fd5d928f5d974ca4983f6e9295dfe410:3aaa001ddc142fedbb9d5557be43792f https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_axn_sd.mpd #EXTINF:-1 group-title="HBO GROUP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/2560px-AXN_logo_%282015%29.svg.png",AXN FM #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=b7b00124894d4f1f8b91fba79160b896:bb236ab2b198c2ffd722817bfa74cd08 https://atemecdnbalancer-voe.sysln.id/live/eds/AXNHD/mpd/AXNHD.mpd #EXTINF:-1 group-title="HBO GROUP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/2560px-AXN_logo_%282015%29.svg.png",AXN JPN https://stream01.willfonk.com/live_playlist.m3u8?cid=CS311&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1 
-#EXTINF:-1 group-title="HBO GROUP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/2560px-AXN_logo_%282015%29.svg.png",AXN NT #KODIPROP:inputstream=inputstream.ffmpegdirect 
-#KODIPROP:mimetype=video/mp2t 
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/9.ts 
-#EXTINF:-1 group-title="HBO GROUP" tvg-logo="http://guki.my.id/logo/movie/hbo.jpg", HBO HD https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/210 
-#EXTINF:-1 group-title="HBO GROUP" tvg-logo="http://guki.my.id/logo/movie/hbosign.jpg", HBO Signature NEW https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/26597 
-#EXTINF:-1 group-title="HBO GROUP" tvg-logo="http://guki.my.id/logo/movie/hbohits.jpg", HBO Hits NA https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/26596 
-#EXTINF:-1 group-title="HBO GROUP" tvg-logo="http://guki.my.id/logo/movie/hbofam.jpg", HBO Family PR https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/26598 
-#EXTINF:-1 group-title="HBO GROUP" tvg-logo="http://guki.my.id/logo/movie/cinemax.jpg", Cinemax RP https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/2156 
-#EXTINF:-1 group-title="HBO GROUP" tvg-logo="http://guki.my.id/logo/movie/hbosign.jpg", HBO Signature Inter 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 #KODIPROP:inputstreamaddon=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey #KODIPROP:inputstream.adaptive.license_key=a06ca6c275744151895762e0346380f5:559da1b63eec77b5a942018f14d3f56f https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_hbosign.mpd #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi #EXTVLCOPT:http-referrer=https://visionplus.id #EXTINF:-1 group-title="HBO GROUP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1200px-KIX_logo.svg.png",KIX https://cempedak-live-cdn.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd #EXTINF:-1 group-title="HBO GROUP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1200px-KIX_logo.svg.png",KIX #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=fe761e8fac143d40510e70825dad0b20:eed9fb0b4e254e9104ef98e8a7035387 https://cempedak-live-cdn.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd 
+
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#EXTINF:-1 tvg-id="HBO Hits (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="HBO Group",HBO Hits 
+https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/refs/heads/main/HBOHits.m3u8
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#EXTINF:-1 tvg-id="HBO Family (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://www.liblogo.com/img-logo/hb7524h5d2-hbo-family-logo-hbo-family-logopedia-.png" group-title="HBO Group",HBO Family
+https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/refs/heads/main/HBOFamily.m3u8
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#EXTINF:-1 tvg-id="HBO Signature (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="HBO Group",HBO Signature
+https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/refs/heads/main/HBOSignature.m3u8
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#EXTINF:-1 tvg-id="CINEMAX (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="HBO Group",Cinemax
+https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/refs/heads/main/Cinemax.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a407479f074d43d798478c1212d95876:3afb53a2643939cd7128fa7ceded533a
+#EXTINF:-1 tvg-id="HBO HD" tvg-url="" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/HBO.jpg" group-title="HBO Group",HBO(Sg)
+https://tglmp01.akamaized.net/out/v1/29687feb8f96427ca7348cd59c2338d9/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=473fabdc05ac4d9b94fd34f33f73394f:1072b1e61206c3859607984f872e549c
+#EXTINF:-1 tvg-id="HBO Hits HD" tvg-url="" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/HBO%20Hits.png" group-title="HBO Group",HBO Hits(Sg)
+https://tglmp02.akamaized.net/out/v1/0fdcb3b643af40ceb3a5b7efa39f7b72/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=363b551913124d6b80074ca295b25129:a6c6efcab0076d572e5732fb6451d19c
+#EXTINF:-1 tvg-id="HBO Family HD" tvg-url="" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/HBO%20Family.png" group-title="HBO Group",HBO Family(Sg)
+https://tglmp03.akamaized.net/out/v1/d15476c2807d4380b0cc375a7d861752/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=90480f571f5d410891d7add7103c1e84:b64f887d2480bcaea992c2f0826449a9
+#EXTINF:-1 tvg-id="HBO Signature HD" tvg-url="" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/HBO%20Signature.png" group-title="HBO Group",HBO Signature(Sg)
+https://tglmp02.akamaized.net/out/v1/b37a81eb3585471cb9c639c78edcdefa/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=32bc2ee6869144b88bee3babf202f88e:50d3b9ec49e1570621d45822923607f7
+#EXTINF:-1 tvg-id="Cinemax HD" tvg-url="" tvg-logo="" group-title="HBO Group",Cinemax(Sg)
+https://tglmp04.akamaized.net/out/v1/0f439c1d8a1a47fca9ae1fa92144306e/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="HBO Group", HBO 11
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="HBO Group", HBO Hits 11
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="HBO Group", HBO Family 11
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="HBO Group", HBO Signature 11
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="HBO Group", Cinemax 11
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 
 
 <============================ Sports ========================>
