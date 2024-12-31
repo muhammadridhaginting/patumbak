@@ -2005,8 +2005,8 @@ https://webhdrunns.mizhls.ru/lb/premium868/index.m3u8|referer=https://lewblivehd
 
 <========================= HBO Group ===================================
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/ https://xyzdddd.mizhls.ru/lb/premium430/index.m3u8
-
-#EXTINF:-1 tvg-id="HBO HD.sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://play-gachor.my.id/logo/htv2/movie/hbo.png" group-title="HBO GROUP",HBO MAX https://nonton.site:8443/XtreamFlixID/w9RLHbWJY4/210 
+#EXTINF:-1 tvg-id="HBO HD.sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://play-gachor.my.id/logo/htv2/movie/hbo.png" group-title="HBO GROUP",HBO MAX 
+https://nonton.site:8443/XtreamFlixID/w9RLHbWJY4/210 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv 
